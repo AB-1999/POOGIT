@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hola soy Ariana
 Tengo 20 años
+=======
+hola soy Ariana y estudio en UDEP
+>>>>>>> universidad
